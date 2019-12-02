@@ -1,5 +1,7 @@
-.register{
+body{
     background: -webkit-linear-gradient(left, #26bd76, #de3ac0);
+}
+.register{
     margin-top: 3%;
     padding: 3%;
 }
